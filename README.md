@@ -1,5 +1,8 @@
 https://www.edu.goit.global/learn/38442047/19646173/19656868/homework
 
+<img src="https://github.com/LesDevLabs/goit-algo-fp/blob/main/task2_image.jpg?raw=true" width="500" alt="how i see this">
+
+
 Дуже нудна і важка фінальна робота з купою графіків, в курсі про алгоритми і структури даних.
 Про дані я на цьому курсі бачив майже нічого, а коду для графіків було більше ніж за все моє життя.
 Структури даних важливіше ніж те яким кольором замальовувати дерево...навіть пакета для цього немає..
@@ -42,3 +45,9 @@ https://www.edu.goit.global/learn/38442047/19646173/19656868/homework
 - Потрібна висока точність
 - Функція проста (1D)
 - Є точні методи (quad, аналітика)
+
+
+
+
+
+https://github.com/LesDevLabs/goit-algo-fp/blob/main/task2_image.jpg
